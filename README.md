@@ -7,3 +7,5 @@ npm i
 npm install pm2 -g
 
 pm2 start app_name.js
+
+open http://site:3000/
